@@ -1,0 +1,21 @@
+{
+    "name": "load-balancer-example",
+    "version": "1.0.0",
+    "description": "Example of an intelligent load balancer for managing multiple API endpoints in Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "supertest": "^6.1.3"
+    },
+    "devDependencies": {
+      "jest": "^27.0.6"
+    }
+  }
+  
